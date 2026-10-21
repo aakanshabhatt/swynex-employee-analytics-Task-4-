@@ -12,10 +12,6 @@ To understand the data analytics process and document how raw employee data can 
 - PostgreSQL (SQL)
 - Microsoft Power BI
 
-## Project Deliverable
-- `Final_Project_Report.pdf` — Complete project report
-- `Final_Project_Report.docx` — Editable Word report
-
 ## Author
 **Aakansha Bhatt**
 Data Analytics Intern | Swynex Technologies
